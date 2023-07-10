@@ -771,9 +771,9 @@ body::-webkit-scrollbar{
     }  
 }
 
-@media(width<=405px){
+/* @media(width<=405px){
     .last{
         display:none !important;
-    } 
+    }  */
 
 }
